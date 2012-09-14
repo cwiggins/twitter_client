@@ -20,4 +20,4 @@ homeTimeline = format_timeline(t.getHomeTimeline())
 #print homeTimeline
 
 #update = raw_input('>' )
-#t.updateStatus(status = update)
+t.updateStatus(status = update)
